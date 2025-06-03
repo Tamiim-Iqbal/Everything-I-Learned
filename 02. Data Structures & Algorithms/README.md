@@ -17,7 +17,7 @@ Welcome to the ultimate DSA repository! This repo covers core data structures an
 
 ---
 
-## 🟢 Introduction
+## Introduction
 
 - What is DSA?
 - Why DSA is important for problem-solving & interviews
