@@ -1,4 +1,4 @@
-# Everything-I-Learned
+<h1 align="center">Everything I Learned</h1>
 
 ## Topics
 | Level | Section |
