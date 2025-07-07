@@ -1,3 +1,3 @@
-<img src="https://github.com/Tamiim-Iqbal/Everything-I-Learned/blob/main/02.%20Data%20Structures%20%26%20Algorithms/02.%20Algorithms/01.%20Sum/01.%20Prefix%20Sum/prefix_sum_dark.png #gh-dark-mode-only" />
+<img src="https://github.com/Tamiim-Iqbal/Everything-I-Learned/blob/main/02.%20Data%20Structures%20%26%20Algorithms/02.%20Algorithms/01.%20Sum/01.%20Prefix%20Sum/prefix_sum_dark.png#gh-dark-mode-only" />
 
-<img src="https://github.com/Tamiim-Iqbal/Everything-I-Learned/blob/main/02.%20Data%20Structures%20%26%20Algorithms/02.%20Algorithms/01.%20Sum/01.%20Prefix%20Sum/prefix_sum.png #gh-light-mode-only" />
+<img src="https://github.com/Tamiim-Iqbal/Everything-I-Learned/blob/main/02.%20Data%20Structures%20%26%20Algorithms/02.%20Algorithms/01.%20Sum/01.%20Prefix%20Sum/prefix_sum.png#gh-light-mode-only" />
